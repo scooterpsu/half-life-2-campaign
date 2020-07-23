@@ -1,10 +1,10 @@
 NEXT_MAP = "d2_prison_07"
 
-TRIGGER_DELAYMAPLOAD = { Vector( 420, 58, 9 ), Vector( 455, 157, 114 ) }
+--TRIGGER_DELAYMAPLOAD = { Vector( 420, 58, 9 ), Vector( 455, 157, 114 ) }
 
-TRIGGER_CHECKPOINT = {
-	{ Vector( 1415, 595, -192 ), Vector( 1456, 757, -31 ) }
-}
+--TRIGGER_CHECKPOINT = {
+--	{ Vector( 1415, 595, -192 ), Vector( 1456, 757, -31 ) }
+--}
 
 
 -- Player spawns
