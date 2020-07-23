@@ -13,6 +13,7 @@ function hl2cPlayerSpawn( ply )
 	ply:Give( "weapon_smg1" )
 	ply:Give( "weapon_357" )
 	ply:Give( "weapon_frag" )
+	ply:Give( "weapon_physcannon" )	
 
 end
 hook.Add( "PlayerSpawn", "hl2cPlayerSpawn", hl2cPlayerSpawn )
